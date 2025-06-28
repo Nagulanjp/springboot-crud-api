@@ -44,7 +44,11 @@ This is a simple **Spring Boot CRUD (Create, Read, Update, Delete)** REST API ap
   "name": "Nagulan",
   "age": 23
 }
-🧰 How to Run
+```
+
+---
+
+## 🧰 How to Run
 Clone this repo:
 
 bash
@@ -55,13 +59,14 @@ Open in Eclipse or IntelliJ as Maven project
 
 Run the application from DemoApplication.java
 
-Test with Postman on:
+## Test with Postman on:
 
 arduino
 Copy
 Edit
 http://localhost:8080
-📌 To Improve
+
+## 📌 To Improve
 Integrate with a real database (H2/MySQL)
 
 Add validation using @Valid
@@ -72,10 +77,10 @@ Add Swagger documentation
 
 Unit tests with JUnit and Mockito
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Nagulan JP
 
-📄 License
+## 📄 License
 This project is open-source and free to use.
 
 yaml
